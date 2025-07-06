@@ -12,7 +12,7 @@ services:
       - key: N8N_PROTOCOL
         value: http
       - key: WEBHOOK_TUNNEL_URL
-        value: https://n8n-YOURNAME.onrender.com
+        value: https://n8n-p8re.onrender.com/
       - key: GENERIC_TIMEZONE
         value: Europe/Sofia
       - key: N8N_BASIC_AUTH_ACTIVE
